@@ -1,0 +1,16 @@
+#GIT
+.git
+.gitignore
+
+
+#DOCKER
+.docker
+
+#PYTHON
+app/__pycashe__/
+app/*/__pycashe__/
+app/*/*/__pycashe__/
+app/*/*/*/__pycashe__/
+.env/
+.venv/
+venv/
